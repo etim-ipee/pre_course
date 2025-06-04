@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# Copy a file to a new location
+cp <src_file> <dest_dir>

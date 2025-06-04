@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# making a directory
+mkdir <dir_name>

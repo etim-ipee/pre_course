@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# moving to a current destination
+
+mv <src_file> <dest_dir>

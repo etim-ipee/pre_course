@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# Deleting a file
+rm <filename>

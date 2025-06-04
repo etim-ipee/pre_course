@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# List all files in the current directory
+
+ls

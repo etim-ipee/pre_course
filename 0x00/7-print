@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# print the content of a file
+cat <filename>

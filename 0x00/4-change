@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# changing a directory(folder)
+cd <location>
