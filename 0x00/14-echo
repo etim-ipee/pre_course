@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# write inside the file
+echo "Hello, World!" > filename

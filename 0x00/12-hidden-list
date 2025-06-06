@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# to see hidden list:
+ls -la

@@ -1,0 +1,6 @@
+#!/usr/bin/sh
+# removing a directory(folder)
+ rmdir <directory_name>
+ # If the directory contains files, you'll need the -r (recursive) flag:
+ rm -r <directory_name>ls
+

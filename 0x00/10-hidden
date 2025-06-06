@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+# hiding a file:
+mv <filename .filename>
+# to see hidden files:
+ls -la
